@@ -12,4 +12,4 @@ This is a Streamlit-based chat interface that integrates with the Ollama AI mode
 - **Real-time AI Responses:** Stream responses from the AI model in real-time.
 - **Local Database Storage:** All chat histories are stored locally using SQLite3.
 
-![[chat-demo.png]]
+![chat-demo](https://github.com/user-attachments/assets/1d6dd501-f3d8-4fd0-ad55-4e58130533f1)
