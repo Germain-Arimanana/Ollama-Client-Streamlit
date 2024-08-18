@@ -1,0 +1,5 @@
+streamlit==1.37.1
+ollama==0.3.1
+db-sqlite3==0.0.1
+typing==3.7.4.3
+regex==2024.7.24
